@@ -10,3 +10,5 @@ const userColor = prompt("Inserisci qui il tuo colore preferito senza maiuscole"
 
 //output
 document.getElementById("pswContainer").innerHTML = userName + userSrname + userColor + "23";
+
+document.getElementById("yay").innerHTML = "&star; yay! &star;";
