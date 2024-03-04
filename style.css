@@ -6,3 +6,26 @@
     box-sizing: border-box;
 }
 /* #endregion RESET */
+
+.box{
+    width: 300px;
+    height: 200px;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 15px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: aquamarine;
+    box-shadow: 1px 1px 10px 1px black;
+}
+
+#pswContainer{
+    background-color: white;
+    width: 100%;
+    border: 1px solid black;
+    margin-top: 20px;
+    padding: 8px 10px;
+    min-height: 40px;
+}
