@@ -1,0 +1,1 @@
+// Obiettivo: ottenere una psw composta dal nome dell'utente, il cognome, il suo colore preferito e il numero 23
